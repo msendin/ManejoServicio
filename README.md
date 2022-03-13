@@ -1,2 +1,2 @@
 # ManejoServicio
-A first experience with Service and BroadcastReceiver components
+A first experience with Service components
