@@ -1,2 +1,2 @@
 # ManejoServicio
-A first experience with Service components
+Little demo using a Service component to play a MediaPlayer (an embedded audio)
